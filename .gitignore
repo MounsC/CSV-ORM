@@ -32,7 +32,7 @@
 *.app
 /.idea
 /CsvOrm.Tests/bin
-/CsvOrm.Tests
 /CsvOrm/obj
 /CsvOrm/bin
 CsvOrm.sln.DotSettings.user
+/CsvOrm.Tests/obj
